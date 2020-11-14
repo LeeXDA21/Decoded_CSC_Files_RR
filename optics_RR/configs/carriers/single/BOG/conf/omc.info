@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omcInfo>
+  <contentType>0</contentType>
+  <version>SAOMC_SM-G981B_OXM_BOG_RR_0002</version>
+  <model>
+    <name>SM-G981B</name>
+  </model>
+  <catalog>
+    <customer>yes</customer>
+    <customerEdition>ED0001</customerEdition>
+    <cscfeature>yes</cscfeature>
+    <cscfeaturenetwork>yes</cscfeaturenetwork>
+    <carrierfeature>no</carrierfeature>
+    <cp>no</cp>
+    <imsupdate>no</imsupdate>
+  </catalog>
+  <carrierList>
+    <carrierCount>2</carrierCount>
+    <carrier>
+      <mcc>208</mcc>
+      <mnc>20</mnc>
+      <networkName>BOUYGTEL</networkName>
+    </carrier>
+    <carrier>
+      <mcc>340</mcc>
+      <mnc>20</mnc>
+      <networkName>Digicel</networkName>
+    </carrier>
+  </carrierList>
+</omcInfo>

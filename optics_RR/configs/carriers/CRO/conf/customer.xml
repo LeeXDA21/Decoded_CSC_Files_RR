@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomerData>
+  <GeneralInfo>
+    <CSCEdition>ED0001</CSCEdition>
+    <Country>Croatia</Country>
+    <CountryISO>HR</CountryISO>
+    <Region>EUR</Region>
+    <SalesCode>CRO</SalesCode>
+    <NbNetworkInfo>6</NbNetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>21901</MCCMNC>
+      <NetworkName>HT HR</NetworkName>
+      <NWID>NW00593</NWID>
+      <CodeType>DEC</CodeType>
+      <SubsetCode>1</SubsetCode>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>21901</MCCMNC>
+      <NetworkName>HT HR</NetworkName>
+      <NWID>NW00593</NWID>
+      <CodeType>DEC</CodeType>
+      <SubsetCode>2</SubsetCode>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>21901</MCCMNC>
+      <NetworkName>HT HR</NetworkName>
+      <NWID>NW00593</NWID>
+      <CodeType>DEC</CodeType>
+      <SubsetCode>3</SubsetCode>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>21901</MCCMNC>
+      <NetworkName>HT HR</NetworkName>
+      <NWID>NW00593</NWID>
+      <CodeType>DEC</CodeType>
+      <SubsetCode>153</SubsetCode>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>21901</MCCMNC>
+      <NetworkName>HT HR</NetworkName>
+      <NWID>NW00593</NWID>
+      <SPName>T-Mobile HR</SPName>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>21901</MCCMNC>
+      <NetworkName>HT HR</NetworkName>
+      <NWID>NW00593</NWID>
+      <SPName>HT HR</SPName>
+    </NetworkInfo>
+  </GeneralInfo>
+  <Settings>
+    <Main>
+      <Security>
+        <OneSIMLock>none</OneSIMLock>
+        <SeparateLock>none</SeparateLock>
+      </Security>
+      <Network>
+        <NbFastDormancy>4</NbFastDormancy>
+        <FastDormancy>
+          <NetworkName>HT HR</NetworkName>
+          <FastDormancyEnableStatus>off</FastDormancyEnableStatus>
+          <LCDStatus>on</LCDStatus>
+        </FastDormancy>
+        <FastDormancy>
+          <NetworkName>HT HR</NetworkName>
+          <FastDormancyEnableStatus>on</FastDormancyEnableStatus>
+          <TimeoutValue>3</TimeoutValue>
+          <LCDStatus>off</LCDStatus>
+        </FastDormancy>
+        <FastDormancy>
+          <NetworkName>HT HR</NetworkName>
+          <FastDormancyEnableStatus>on</FastDormancyEnableStatus>
+          <TimeoutValue>5</TimeoutValue>
+          <LCDStatus>on</LCDStatus>
+          <Version>rel8</Version>
+        </FastDormancy>
+        <FastDormancy>
+          <NetworkName>HT HR</NetworkName>
+          <FastDormancyEnableStatus>on</FastDormancyEnableStatus>
+          <TimeoutValue>3</TimeoutValue>
+          <LCDStatus>off</LCDStatus>
+          <Version>rel8</Version>
+        </FastDormancy>
+        <NbWbAmr>1</NbWbAmr>
+        <WbAmr>
+          <NetworkName>HT HR</NetworkName>
+          <WbAmrCodec>on</WbAmrCodec>
+        </WbAmr>
+      </Network>
+      <Sound>
+        <RngToneAlertType>vibmelody</RngToneAlertType>
+        <RngVolume>4</RngVolume>
+        <KeyTone>
+          <KeyVolume>1</KeyVolume>
+        </KeyTone>
+        <MsgToneAlertType>vibmelody</MsgToneAlertType>
+        <ExtraSound>
+          <ConnectTone>on</ConnectTone>
+          <CallEndTone>on</CallEndTone>
+        </ExtraSound>
+        <AMRVoiceCodec>on</AMRVoiceCodec>
+      </Sound>
+      <Phone>
+        <AlertOnCall>on</AlertOnCall>
+        <DefLanguage>croatian</DefLanguage>
+        <DefLanguageNoSIM>croatian</DefLanguageNoSIM>
+        <T9Enabling>disable</T9Enabling>
+        <T9Language>croatian</T9Language>
+        <DateTimeFormat>
+          <DateFormat>ddmmyyyy</DateFormat>
+          <TimeFormat>24h</TimeFormat>
+          <TimezoneUpdate>on</TimezoneUpdate>
+        </DateTimeFormat>
+      </Phone>
+    </Main>
+    <Contact>
+      <SavePosition>ask</SavePosition>
+    </Contact>
+    <Calendar>
+      <StartDay>monday</StartDay>
+    </Calendar>
+    <Messages>
+      <NbVoicemail>1</NbVoicemail>
+      <Voicemail>
+        <NetworkName>HT HR</NetworkName>
+        <TelNum>+38598151100</TelNum>
+      </Voicemail>
+      <SMS>
+        <DeliveryReport>off</DeliveryReport>
+        <MsgTypeThreshold>
+          <ThresholdValue>13</ThresholdValue>
+          <ThresholdType>pagecount</ThresholdType>
+        </MsgTypeThreshold>
+        <CharSupport>gsmalpha</CharSupport>
+      </SMS>
+      <MMS>
+        <MmsSending>
+          <ReqDeliveryRep>off</ReqDeliveryRep>
+          <ReqReadRep>off</ReqReadRep>
+          <MessageSize>300</MessageSize>
+          <CreationMode>free</CreationMode>
+        </MmsSending>
+        <MmsReceiving>
+          <Home>auto</Home>
+          <Roaming>manual</Roaming>
+        </MmsReceiving>
+        <NbMMSView>1</NbMMSView>
+        <MMSView>
+          <MessageUaProfUrl>http://wap.samsungmobile.com/uaprof/uaprof.rdf</MessageUaProfUrl>
+        </MMSView>
+      </MMS>
+      <Email>
+        <EmailReceiving>
+          <PollTime>off</PollTime>
+        </EmailReceiving>
+      </Email>
+    </Messages>
+    <Browser>
+      <NbBookmark>1</NbBookmark>
+      <Bookmark>
+        <NetworkName>HT HR</NetworkName>
+        <Editable>yes</Editable>
+        <BookmarkName>tportal</BookmarkName>
+        <URL>http://m.tportal.hr</URL>
+      </Bookmark>
+      <eManual>
+        <URL>http://www.samsung.com/m-manual/tmobile_eu</URL>
+      </eManual>
+    </Browser>
+    <Connections>
+      <NbProfileHandle>1</NbProfileHandle>
+      <ProfileHandle>
+        <NbNetProfile>3</NbNetProfile>
+        <NetworkName>HT HR</NetworkName>
+        <ProfBrowser>Internet</ProfBrowser>
+        <ProfMMS>HOS</ProfMMS>
+        <ProfIMS>Telekom IMS</ProfIMS>
+        <ProfXCAP>HOS</ProfXCAP>
+      </ProfileHandle>
+      <NbProfile>3</NbProfile>
+      <Profile>
+        <NetworkName>HT HR</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4</RoamingIpVersion>
+        <Editable>yes</Editable>
+        <HiddenStatus>show</HiddenStatus>
+        <ProfileName>Internet</ProfileName>
+        <URL>http://m.tportal.hr</URL>
+        <Auth>normal</Auth>
+        <Bearer>ps</Bearer>
+        <Protocol>http</Protocol>
+        <MTUSize>1500</MTUSize>
+        <PSparam>
+          <APN>internet.ht.hr</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>HT HR</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4</RoamingIpVersion>
+        <Editable>yes</Editable>
+        <HiddenStatus>hidden</HiddenStatus>
+        <ProfileName>Telekom IMS</ProfileName>
+        <Auth>none</Auth>
+        <Bearer>ps</Bearer>
+        <Protocol>http</Protocol>
+        <MTUSize>1500</MTUSize>
+        <PSparam>
+          <APN>IMS</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>HT HR</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4</RoamingIpVersion>
+        <Editable>no</Editable>
+        <HiddenStatus>hidden</HiddenStatus>
+        <ProfileName>HOS</ProfileName>
+        <URL>http://mms.t-mobile.hr/servlets/mms</URL>
+        <Auth>normal</Auth>
+        <Bearer>ps</Bearer>
+        <Protocol>http</Protocol>
+        <MTUSize>1280</MTUSize>
+        <Proxy>
+          <EnableFlag>on</EnableFlag>
+          <ServAddr>010.012.000.004</ServAddr>
+          <Port>8080</Port>
+        </Proxy>
+        <PSparam>
+          <APN>hos</APN>
+        </PSparam>
+      </Profile>
+    </Connections>
+    <IMSSetting>
+      <NbSetting>1</NbSetting>
+      <Setting>
+        <NetworkName>HT HR</NetworkName>
+        <Version>3.0</Version>
+        <EnableIMS>true</EnableIMS>
+        <VoLTE>
+          <EnableVoLTE>true</EnableVoLTE>
+          <EnableVoiceoverWIFI>true</EnableVoiceoverWIFI>
+          <EnableVideocall>false</EnableVideocall>
+          <EnableVoLTEindicator>true</EnableVoLTEindicator>
+          <Voice_Domain_Preference_EUTRAN>imspsvoicepreferred</Voice_Domain_Preference_EUTRAN>
+          <Emregencycall_Domain>ps</Emregencycall_Domain>
+          <SRVCCversion>10</SRVCCversion>
+          <SS_Domain_Preference>ps_only_psregied</SS_Domain_Preference>
+          <SS_PS_Control_Preference>xcap</SS_PS_Control_Preference>
+          <SS_CSFBwithIMSerror>false</SS_CSFBwithIMSerror>
+          <USSD_Domain_Preference>pscs</USSD_Domain_Preference>
+          <EnableSMSoverIP>true</EnableSMSoverIP>
+        </VoLTE>
+      </Setting>
+    </IMSSetting>
+  </Settings>
+</CustomerData>

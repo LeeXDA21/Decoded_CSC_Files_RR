@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omcInfo>
+  <contentType>0</contentType>
+  <version>SAOMC_SM-G981B_OXM_BTE_RR_0003</version>
+  <model>
+    <name>SM-G981B</name>
+  </model>
+  <catalog>
+    <customer>yes</customer>
+    <customerEdition>ED0002</customerEdition>
+    <cscfeature>yes</cscfeature>
+    <cscfeaturenetwork>yes</cscfeaturenetwork>
+    <carrierfeature>no</carrierfeature>
+    <cp>no</cp>
+    <imsupdate>no</imsupdate>
+  </catalog>
+  <carrierList>
+    <carrierCount>2</carrierCount>
+    <carrier>
+      <mcc>001</mcc>
+      <mnc>01</mnc>
+      <networkName>BT</networkName>
+    </carrier>
+    <carrier>
+      <mcc>234</mcc>
+      <mnc>30</mnc>
+      <codeType>HEX</codeType>
+      <gid>C3</gid>
+      <networkName>BT</networkName>
+    </carrier>
+  </carrierList>
+</omcInfo>

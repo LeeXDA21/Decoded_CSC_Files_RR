@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SamsungMobileFeature>
+  <Version>ED00003</Version>
+  <Country>AUSTRALIA</Country>
+  <CountryISO>AU</CountryISO>
+  <SalesCode>XSA</SalesCode>
+  <FeatureSet>
+    <CscFeature_Camera_CameraFlicker>50hz</CscFeature_Camera_CameraFlicker>
+    <CscFeature_Camera_EnableCameraDuringCall>TRUE</CscFeature_Camera_EnableCameraDuringCall>
+    <CscFeature_Common_AutoConfigurationType>NO_DFLT_CSC, SIMBASED_OMC</CscFeature_Common_AutoConfigurationType>
+    <CscFeature_Common_ConfigAllowedPackagesDuringDataSaving>com.samsung.android.smartcallprovider</CscFeature_Common_ConfigAllowedPackagesDuringDataSaving>
+    <CscFeature_Common_ConfigSvcProviderForUnknownNumber>whitepages,whitepages,whitepages</CscFeature_Common_ConfigSvcProviderForUnknownNumber>
+    <CscFeature_Common_DisableLTEFallbackAtLowThroughput>TRUE</CscFeature_Common_DisableLTEFallbackAtLowThroughput>
+    <CscFeature_Common_DisableManualTimeGuidePopup>TRUE</CscFeature_Common_DisableManualTimeGuidePopup>
+    <CscFeature_Common_EulaVersion>2</CscFeature_Common_EulaVersion>
+    <CscFeature_Contact_ConfigDuoVideoCall>ViLTE,</CscFeature_Contact_ConfigDuoVideoCall>
+    <CscFeature_Contact_ConfigImsOpStyle>XSA</CscFeature_Contact_ConfigImsOpStyle>
+    <CscFeature_Contact_ConfigOpStyleVariation>XSA</CscFeature_Contact_ConfigOpStyleVariation>
+    <CscFeature_Contact_DisableContactPhoto>TRUE</CscFeature_Contact_DisableContactPhoto>
+    <CscFeature_Contact_SupportDuoVideoCall>TRUE</CscFeature_Contact_SupportDuoVideoCall>
+    <CscFeature_FMRadio_FrequencySpaceAs>100</CscFeature_FMRadio_FrequencySpaceAs>
+    <CscFeature_Framework_HyperLinkDigit>5</CscFeature_Framework_HyperLinkDigit>
+    <CscFeature_GMS_SetClientIDBaseMs>android-samsung-gs-rev1</CscFeature_GMS_SetClientIDBaseMs>
+    <CscFeature_GMS_SupportSTSTool>FALSE</CscFeature_GMS_SupportSTSTool>
+    <CscFeature_Launcher_ReplaceHotseatAreaInEditMode>TRUE</CscFeature_Launcher_ReplaceHotseatAreaInEditMode>
+    <CscFeature_LockScreen_ConfigClockDisplayPolicy>IgnoreNationalRoamingWithOptus</CscFeature_LockScreen_ConfigClockDisplayPolicy>
+    <CscFeature_LockScreen_DirectCallToEcc>TRUE</CscFeature_LockScreen_DirectCallToEcc>
+    <CscFeature_LockScreen_DisplayPlmn>TRUE</CscFeature_LockScreen_DisplayPlmn>
+    <CscFeature_Message_DisableOverlayInMsgList>TRUE</CscFeature_Message_DisableOverlayInMsgList>
+    <CscFeature_Message_EnableReplyAll>TRUE</CscFeature_Message_EnableReplyAll>
+    <CscFeature_NFC_DefStatus>ON</CscFeature_NFC_DefStatus>
+    <CscFeature_NFC_DefaultCardModeConfig>UICC</CscFeature_NFC_DefaultCardModeConfig>
+    <CscFeature_RIL_ConfigDisplayTypeOnLteLimited>TRUE</CscFeature_RIL_ConfigDisplayTypeOnLteLimited>
+    <CscFeature_RIL_ConfigSVNVersion>20</CscFeature_RIL_ConfigSVNVersion>
+    <CscFeature_RIL_ConfigSpecialPdpFlag>im_cn</CscFeature_RIL_ConfigSpecialPdpFlag>
+    <CscFeature_RIL_SupportEsim>TRUE</CscFeature_RIL_SupportEsim>
+    <CscFeature_Security_DeleteCardApplet>deactivate</CscFeature_Security_DeleteCardApplet>
+    <CscFeature_Setting_ConfigAboutDeviceItems>fcc=disabled;</CscFeature_Setting_ConfigAboutDeviceItems>
+    <CscFeature_Setting_ConfigOperatorCallService>set_ssmode_only</CscFeature_Setting_ConfigOperatorCallService>
+    <CscFeature_Setting_DisableELabelCeWeeeMarks>FALSE</CscFeature_Setting_DisableELabelCeWeeeMarks>
+    <CscFeature_Setting_EnableDataRoamingMenuInDetail>TRUE</CscFeature_Setting_EnableDataRoamingMenuInDetail>
+    <CscFeature_Setting_ManualSearchListWithDetailStatus>TRUE</CscFeature_Setting_ManualSearchListWithDetailStatus>
+    <CscFeature_Setting_SkipWifiActvDuringSetupWizard>FALSE</CscFeature_Setting_SkipWifiActvDuringSetupWizard>
+    <CscFeature_Setting_SupportEditableApnForEng>TRUE</CscFeature_Setting_SupportEditableApnForEng>
+    <CscFeature_Setting_SupportHAC>FALSE</CscFeature_Setting_SupportHAC>
+    <CscFeature_Setting_SupportRegulatoryInfo>TRUE</CscFeature_Setting_SupportRegulatoryInfo>
+    <CscFeature_SetupWizard_ConfigStepSequenceType>RemoveEmergency</CscFeature_SetupWizard_ConfigStepSequenceType>
+    <CscFeature_SmartSwitch_SupportAppIcon>TRUE</CscFeature_SmartSwitch_SupportAppIcon>
+    <CscFeature_SystemUI_ConfigDefQuickSettingItem>Wifi,SoundMode,Bluetooth,RotationLock,AirplaneMode,Flashlight,BatteryMode,PowerShare,MobileData,WifiCalling,BlueLightFilter,Hotspot,Location,DailyBoard,AllShareCast,Dnd,SecureFolder,Nfc,Aod,DeviceVisibility,Sync,EdgeLighting,Dolby,SpenRemote,KidsHome,NightMode,Routines,DesktopMode</CscFeature_SystemUI_ConfigDefQuickSettingItem>
+    <CscFeature_SystemUI_ConfigOpBranding5GIcon>5GAvailable</CscFeature_SystemUI_ConfigOpBranding5GIcon>
+    <CscFeature_SystemUI_ConfigOpBrandingForIndicatorIcon>XSA</CscFeature_SystemUI_ConfigOpBrandingForIndicatorIcon>
+    <CscFeature_SystemUI_ConfigQuickSettingPopup>XSA</CscFeature_SystemUI_ConfigQuickSettingPopup>
+    <CscFeature_VT_ConfigBearer>-CSVT</CscFeature_VT_ConfigBearer>
+    <CscFeature_VT_ConfigPrivacyPolicy>record,capture</CscFeature_VT_ConfigPrivacyPolicy>
+    <CscFeature_VT_SupportAddCall>TRUE</CscFeature_VT_SupportAddCall>
+    <CscFeature_VoiceCall_ConfigOpStyleForHdIcon>XSA_HD,XSA_CSHD</CscFeature_VoiceCall_ConfigOpStyleForHdIcon>
+    <CscFeature_VoiceCall_DisableCallTransfer>TRUE</CscFeature_VoiceCall_DisableCallTransfer>
+    <CscFeature_VoiceCall_EnableSSC>TRUE</CscFeature_VoiceCall_EnableSSC>
+    <CscFeature_VoiceCall_ReplaceGsmCharToAndroidFormat>TRUE</CscFeature_VoiceCall_ReplaceGsmCharToAndroidFormat>
+    <CscFeature_VoiceCall_UseEccDialerInCaseOfNoInternalMemory>TRUE</CscFeature_VoiceCall_UseEccDialerInCaseOfNoInternalMemory>
+    <CscFeature_Weather_ConfigCpType>TWC</CscFeature_Weather_ConfigCpType>
+    <CscFeature_Web_ConfigSyncSource>TRUE</CscFeature_Web_ConfigSyncSource>
+    <CscFeature_Wifi_ConfigSnsStatus>DEFAULT_ON</CscFeature_Wifi_ConfigSnsStatus>
+    
+    <!-- Additions -->
+    <CscFeature_Camera_ShutterSoundMenu>TRUE</CscFeature_Camera_ShutterSoundMenu>
+    <CscFeature_Setting_EnableMenuBlockCallMsg>TRUE</CscFeature_Setting_EnableMenuBlockCallMsg>
+    <CscFeature_SystemUI_SupportRecentAppProtection>TRUE</CscFeature_SystemUI_SupportRecentAppProtection>
+    <CscFeature_VoiceCall_ConfigRecording>RecordingAllowed</CscFeature_VoiceCall_ConfigRecording>
+    <CscFeature_Message_SupportAntiPhishing>TRUE</CscFeature_Message_SupportAntiPhishing>
+    <CscFeature_Message_DisableSpam>TRUE</CscFeature_Message_DisableSpam>
+    <CscFeature_Music_SupportPlaybackDuringCall>TRUE</CscFeature_Music_SupportPlaybackDuringCall>
+    <CscFeature_Video_SupportPlayDuringCall>TRUE</CscFeature_Video_SupportPlayDuringCall>
+    <CscFeature_Camera_EnableCameraDuringCall>TRUE</CscFeature_Camera_EnableCameraDuringCall>
+  </FeatureSet>
+</SamsungMobileFeature>

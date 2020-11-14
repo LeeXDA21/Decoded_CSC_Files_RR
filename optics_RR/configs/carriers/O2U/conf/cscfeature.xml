@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SamsungMobileFeature>
+  <Version>ED00004</Version>
+  <Country>UNITED KINGDOM</Country>
+  <CountryISO>GB</CountryISO>
+  <SalesCode>O2U</SalesCode>
+  <FeatureSet>
+    <CscFeature_Audio_SupportSafeMediaVolumeDialog>TRUE</CscFeature_Audio_SupportSafeMediaVolumeDialog>
+    <CscFeature_Common_ConfigSvcProviderForUnknownNumber>whitepages,whitepages,whitepages</CscFeature_Common_ConfigSvcProviderForUnknownNumber>
+    <CscFeature_Common_DisableLTEFallbackAtLowThroughput>TRUE</CscFeature_Common_DisableLTEFallbackAtLowThroughput>
+    <CscFeature_Common_EulaVersion>2</CscFeature_Common_EulaVersion>
+    <CscFeature_Contact_ConfigImsOpStyle>O2U</CscFeature_Contact_ConfigImsOpStyle>
+    <CscFeature_Contact_SupportDuoVideoCall>TRUE</CscFeature_Contact_SupportDuoVideoCall>
+    <CscFeature_GMS_SetClientIDBaseCr>android-samsung-ss</CscFeature_GMS_SetClientIDBaseCr>
+    <CscFeature_GMS_SetClientIDBaseMs>android-samsung-gs-rev1</CscFeature_GMS_SetClientIDBaseMs>
+    <CscFeature_GMS_SetClientIDBaseVs>android-samsung-gs-rev1</CscFeature_GMS_SetClientIDBaseVs>
+    <CscFeature_GMS_SupportSTSTool>FALSE</CscFeature_GMS_SupportSTSTool>
+    <CscFeature_Graphics_DisableGameToolsPublicWIFI>TRUE</CscFeature_Graphics_DisableGameToolsPublicWIFI>
+    <CscFeature_IMS_ConfigMdmnType>Nsds</CscFeature_IMS_ConfigMdmnType>
+    <CscFeature_Message_DisableSmsToMmsConversionByTextInput>TRUE</CscFeature_Message_DisableSmsToMmsConversionByTextInput>
+    <CscFeature_Message_SupportSuggestedCategory>TRUE</CscFeature_Message_SupportSuggestedCategory>
+    <CscFeature_NFC_DefStatus>ON</CscFeature_NFC_DefStatus>
+    <CscFeature_NFC_StatusBarIconType>DEFAULT</CscFeature_NFC_StatusBarIconType>
+    <CscFeature_RIL_ConfigSVNVersion>14</CscFeature_RIL_ConfigSVNVersion>
+    <CscFeature_RIL_ConfigSpecialPdpFlag>im_cn</CscFeature_RIL_ConfigSpecialPdpFlag>
+    <CscFeature_RIL_DisplayAntennaLimited>TRUE</CscFeature_RIL_DisplayAntennaLimited>
+    <CscFeature_RIL_SupportEsim>TRUE</CscFeature_RIL_SupportEsim>
+    <CscFeature_SetupWizard_DisablePrivacyPolicyAgreement>TRUE</CscFeature_SetupWizard_DisablePrivacyPolicyAgreement>
+    <CscFeature_SyncML_SupportOmcAppDataChargePopup>TRUE</CscFeature_SyncML_SupportOmcAppDataChargePopup>
+    <CscFeature_SystemUI_ConfigDefIndicatorAdditionalSystemIcon>nfc</CscFeature_SystemUI_ConfigDefIndicatorAdditionalSystemIcon>
+    <CscFeature_SystemUI_ConfigOpBranding5GIcon>5GAvailable</CscFeature_SystemUI_ConfigOpBranding5GIcon>
+    <CscFeature_SystemUI_ConfigOpBrandingForIndicatorIcon>O2U</CscFeature_SystemUI_ConfigOpBrandingForIndicatorIcon>
+    <CscFeature_VT_ConfigBearer>-CSVT</CscFeature_VT_ConfigBearer>
+    <CscFeature_VoiceCall_ConfigAdvancedMobileLocationExtension>999:999,112:112</CscFeature_VoiceCall_ConfigAdvancedMobileLocationExtension>
+    <CscFeature_VoiceCall_ConfigOpStyleForHdIcon>NOHD</CscFeature_VoiceCall_ConfigOpStyleForHdIcon>
+    <CscFeature_VoiceCall_SupportAdvancedMobileLocation>TRUE</CscFeature_VoiceCall_SupportAdvancedMobileLocation>
+    <CscFeature_VoiceCall_SupportVolteHoldTone>NOT</CscFeature_VoiceCall_SupportVolteHoldTone>
+    <CscFeature_Weather_ConfigCpType>TWC</CscFeature_Weather_ConfigCpType>
+    <CscFeature_Web_ConfigSyncSource>TRUE</CscFeature_Web_ConfigSyncSource>
+    
+    <!-- Additions -->
+    <CscFeature_Camera_ShutterSoundMenu>TRUE</CscFeature_Camera_ShutterSoundMenu>
+    <CscFeature_Setting_EnableMenuBlockCallMsg>TRUE</CscFeature_Setting_EnableMenuBlockCallMsg>
+    <CscFeature_SystemUI_SupportRecentAppProtection>TRUE</CscFeature_SystemUI_SupportRecentAppProtection>
+    <CscFeature_VoiceCall_ConfigRecording>RecordingAllowed</CscFeature_VoiceCall_ConfigRecording>
+    <CscFeature_Message_SupportAntiPhishing>TRUE</CscFeature_Message_SupportAntiPhishing>
+    <CscFeature_Message_DisableSpam>TRUE</CscFeature_Message_DisableSpam>
+    <CscFeature_Music_SupportPlaybackDuringCall>TRUE</CscFeature_Music_SupportPlaybackDuringCall>
+    <CscFeature_Video_SupportPlayDuringCall>TRUE</CscFeature_Video_SupportPlayDuringCall>
+    <CscFeature_Camera_EnableCameraDuringCall>TRUE</CscFeature_Camera_EnableCameraDuringCall>
+  </FeatureSet>
+</SamsungMobileFeature>

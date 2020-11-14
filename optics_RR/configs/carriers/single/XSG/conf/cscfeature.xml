@@ -1,0 +1,59 @@
+<?xml  version="1.0" encoding="UTF-8" ?>
+<SamsungMobileFeature>
+  <Version>ED00006</Version>
+  <Country>UNITED ARAB EMIRAT</Country>
+  <CountryISO>AE</CountryISO>
+  <SalesCode>XSG</SalesCode>
+  <FeatureSet>
+    <CscFeature_Calendar_EnableLocalHolidayDisplay>ARABIC</CscFeature_Calendar_EnableLocalHolidayDisplay>
+    <CscFeature_Calendar_SetColorOfDays>XXXXBRX</CscFeature_Calendar_SetColorOfDays>
+    <CscFeature_Clock_DisableIsraelCountry>TRUE</CscFeature_Clock_DisableIsraelCountry>
+    <CscFeature_Common_ConfigSvcProviderForUnknownNumber>off,off,off</CscFeature_Common_ConfigSvcProviderForUnknownNumber>
+    <CscFeature_Common_EulaVersion>2</CscFeature_Common_EulaVersion>
+    <CscFeature_Email_AlignmentForRTL>TRUE</CscFeature_Email_AlignmentForRTL>
+    <CscFeature_Email_DisableFontAttributeDuringComposing>Bold, Italic</CscFeature_Email_DisableFontAttributeDuringComposing>
+    <CscFeature_Framework_EnableBidirection>TRUE</CscFeature_Framework_EnableBidirection>
+    <CscFeature_GMS_SetClientIDBaseMs>android-samsung-gs-rev1</CscFeature_GMS_SetClientIDBaseMs>
+    <CscFeature_GMS_SupportSTSTool>FALSE</CscFeature_GMS_SupportSTSTool>
+    <CscFeature_Message_CMASOperator>uae</CscFeature_Message_CMASOperator>
+    <CscFeature_RIL_ConfigProvideCellInfo>enable</CscFeature_RIL_ConfigProvideCellInfo>
+    <CscFeature_RIL_SupportEsim>FALSE</CscFeature_RIL_SupportEsim>
+    <CscFeature_SIP_EnablePreferredEnglishTypeAsUS>TRUE</CscFeature_SIP_EnablePreferredEnglishTypeAsUS>
+    <CscFeature_Setting_DisableIsraelCountry>TRUE</CscFeature_Setting_DisableIsraelCountry>
+    <CscFeature_Setting_IncludeApn4SwUpdate>TRUE</CscFeature_Setting_IncludeApn4SwUpdate>
+    <CscFeature_Sip_LangQwertyType4HwKey>HW_KEYBOARD_COUNTRY_TYPE_ARAB_QWERTY</CscFeature_Sip_LangQwertyType4HwKey>
+    <CscFeature_VT_ConfigPrivacyPolicy>record,capture</CscFeature_VT_ConfigPrivacyPolicy>
+    <CscFeature_VT_SupportMerge>TRUE</CscFeature_VT_SupportMerge>
+    <CscFeature_Vision_ConfigBeauty>NLLXX</CscFeature_Vision_ConfigBeauty>
+    <CscFeature_Vision_ConfigFood>NLLXX</CscFeature_Vision_ConfigFood>
+    <CscFeature_Vision_ConfigImageSearch>PTRXX</CscFeature_Vision_ConfigImageSearch>
+    <CscFeature_Vision_ConfigPlace>FSRXX</CscFeature_Vision_ConfigPlace>
+    <CscFeature_Vision_ConfigPlaceLandmark>SFSGO</CscFeature_Vision_ConfigPlaceLandmark>
+    <CscFeature_Vision_ConfigPlaceMap>GGLXX</CscFeature_Vision_ConfigPlaceMap>
+    <CscFeature_Vision_ConfigPlaceWeather>TWCXX</CscFeature_Vision_ConfigPlaceWeather>
+    <CscFeature_Vision_ConfigShopping>NLLXX</CscFeature_Vision_ConfigShopping>
+    <CscFeature_Vision_ConfigTextExchangerate>OANXX</CscFeature_Vision_ConfigTextExchangerate>
+    <CscFeature_Vision_ConfigTextTranslator>GGLXX</CscFeature_Vision_ConfigTextTranslator>
+    <CscFeature_Vision_ConfigWine>NLLXX</CscFeature_Vision_ConfigWine>
+    <CscFeature_VoiceCall_ConfigCallforwardCfnryTimer>Remove</CscFeature_VoiceCall_ConfigCallforwardCfnryTimer>
+    <CscFeature_VoiceCall_ConfigOpStyleForHdIcon>XSG_HD</CscFeature_VoiceCall_ConfigOpStyleForHdIcon>
+    <CscFeature_VoiceCall_ConfigOpStyleForRingBackTone>SINGTEL</CscFeature_VoiceCall_ConfigOpStyleForRingBackTone>
+    <CscFeature_VoiceCall_DisableCallTransfer>TRUE</CscFeature_VoiceCall_DisableCallTransfer>
+    <CscFeature_Weather_ConfigCpType>TWC</CscFeature_Weather_ConfigCpType>
+    <CscFeature_Weather_SupportCheckingDisputeArea>TRUE</CscFeature_Weather_SupportCheckingDisputeArea>
+    <CscFeature_Web_ConfigSyncSource>TRUE</CscFeature_Web_ConfigSyncSource>
+    <CscFeature_Wifi_ConfigSnsStatus>DEFAULT_ON</CscFeature_Wifi_ConfigSnsStatus>
+    <CscFeature_Wifi_SupportRssiPollStateDuringWifiCalling>TRUE</CscFeature_Wifi_SupportRssiPollStateDuringWifiCalling>
+    
+    <!-- Additions -->
+    <CscFeature_Camera_ShutterSoundMenu>TRUE</CscFeature_Camera_ShutterSoundMenu>
+    <CscFeature_Setting_EnableMenuBlockCallMsg>TRUE</CscFeature_Setting_EnableMenuBlockCallMsg>
+    <CscFeature_SystemUI_SupportRecentAppProtection>TRUE</CscFeature_SystemUI_SupportRecentAppProtection>
+    <CscFeature_VoiceCall_ConfigRecording>RecordingAllowed</CscFeature_VoiceCall_ConfigRecording>
+    <CscFeature_Message_SupportAntiPhishing>TRUE</CscFeature_Message_SupportAntiPhishing>
+    <CscFeature_Message_DisableSpam>TRUE</CscFeature_Message_DisableSpam>
+    <CscFeature_Music_SupportPlaybackDuringCall>TRUE</CscFeature_Music_SupportPlaybackDuringCall>
+    <CscFeature_Video_SupportPlayDuringCall>TRUE</CscFeature_Video_SupportPlayDuringCall>
+    <CscFeature_Camera_EnableCameraDuringCall>TRUE</CscFeature_Camera_EnableCameraDuringCall>
+  </FeatureSet>
+</SamsungMobileFeature>

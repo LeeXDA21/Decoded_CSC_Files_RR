@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SamsungMobileFeature>
+  <Version>ED00005</Version>
+  <Country>FRANCE</Country>
+  <CountryISO>FR</CountryISO>
+  <SalesCode>SFR</SalesCode>
+  <FeatureSet>
+    <CscFeature_Audio_SupportSafeMediaVolumeDialog>TRUE</CscFeature_Audio_SupportSafeMediaVolumeDialog>
+    <CscFeature_Common_ConfigSvcProviderForUnknownNumber>whitepages,whitepages,whitepages</CscFeature_Common_ConfigSvcProviderForUnknownNumber>
+    <CscFeature_Common_DisablePhoneNumberFormatting>TRUE</CscFeature_Common_DisablePhoneNumberFormatting>
+    <CscFeature_Common_EulaVersion>2</CscFeature_Common_EulaVersion>
+    <CscFeature_Contact_ConfigImsOpStyle>SFR</CscFeature_Contact_ConfigImsOpStyle>
+    <CscFeature_Contact_ConfigOpStyleVariation>SFR</CscFeature_Contact_ConfigOpStyleVariation>
+    <CscFeature_Contact_SupportDuoVideoCall>TRUE</CscFeature_Contact_SupportDuoVideoCall>
+    <CscFeature_Email_UseFixedSmtpPortAs>25</CscFeature_Email_UseFixedSmtpPortAs>
+    <CscFeature_GMS_SetClientIDBaseMs>android-samsung-gs-rev1</CscFeature_GMS_SetClientIDBaseMs>
+    <CscFeature_GMS_SupportSTSTool>FALSE</CscFeature_GMS_SupportSTSTool>
+    <CscFeature_Graphics_DisableGameToolsPublicWIFI>TRUE</CscFeature_Graphics_DisableGameToolsPublicWIFI>
+    <CscFeature_Message_EnableReplyAll>TRUE</CscFeature_Message_EnableReplyAll>
+    <CscFeature_NFC_ConfigSecurityPromptPopup>all</CscFeature_NFC_ConfigSecurityPromptPopup>
+    <CscFeature_NFC_StatusBarIconType>DEFAULT</CscFeature_NFC_StatusBarIconType>
+    <CscFeature_RIL_ConfigSVNVersion>19</CscFeature_RIL_ConfigSVNVersion>
+    <CscFeature_RIL_ConfigSpecialPdpFlag>im_cn</CscFeature_RIL_ConfigSpecialPdpFlag>
+    <CscFeature_RIL_DisplayAntennaLimited>TRUE</CscFeature_RIL_DisplayAntennaLimited>
+    <CscFeature_RIL_SupportEsim>TRUE</CscFeature_RIL_SupportEsim>
+    <CscFeature_Setting_BlockToSelectDunApnType>TRUE</CscFeature_Setting_BlockToSelectDunApnType>
+    <CscFeature_SetupWizard_DisablePrivacyPolicyAgreement>TRUE</CscFeature_SetupWizard_DisablePrivacyPolicyAgreement>
+    <CscFeature_SyncML_EnableShowVersionNameAferSuccessfulUpdate>TRUE</CscFeature_SyncML_EnableShowVersionNameAferSuccessfulUpdate>
+    <CscFeature_SystemUI_ConfigOpBranding5GIcon>5GAvailable,UseOneShapedIcon</CscFeature_SystemUI_ConfigOpBranding5GIcon>
+    <CscFeature_SystemUI_ConfigOpBrandingForIndicatorIcon>SFR</CscFeature_SystemUI_ConfigOpBrandingForIndicatorIcon>
+    <CscFeature_VT_ConfigBearer>-CSVT</CscFeature_VT_ConfigBearer>
+    <CscFeature_VoiceCall_ConfigOpStyleForHdIcon>SFR_HD,SFR_CSHD</CscFeature_VoiceCall_ConfigOpStyleForHdIcon>
+    <CscFeature_VoiceCall_ConfigOptStyleForCallBarring>RemoveAll</CscFeature_VoiceCall_ConfigOptStyleForCallBarring>
+    <CscFeature_VoiceCall_EnableCallButtonInFdnList>TRUE</CscFeature_VoiceCall_EnableCallButtonInFdnList>
+    <CscFeature_VoiceCall_SupportVolteCallBarringPassword>TRUE</CscFeature_VoiceCall_SupportVolteCallBarringPassword>
+    <CscFeature_Weather_ConfigCpType>TWC</CscFeature_Weather_ConfigCpType>
+    <CscFeature_Web_SetUserAgent>VODA</CscFeature_Web_SetUserAgent>
+    <CscFeature_Wifi_ConfigSnsStatus>DEFAULT_ON</CscFeature_Wifi_ConfigSnsStatus>
+    
+    <!-- Additions -->
+    <CscFeature_Camera_ShutterSoundMenu>TRUE</CscFeature_Camera_ShutterSoundMenu>
+    <CscFeature_Setting_EnableMenuBlockCallMsg>TRUE</CscFeature_Setting_EnableMenuBlockCallMsg>
+    <CscFeature_SystemUI_SupportRecentAppProtection>TRUE</CscFeature_SystemUI_SupportRecentAppProtection>
+    <CscFeature_VoiceCall_ConfigRecording>RecordingAllowed</CscFeature_VoiceCall_ConfigRecording>
+    <CscFeature_Message_SupportAntiPhishing>TRUE</CscFeature_Message_SupportAntiPhishing>
+    <CscFeature_Message_DisableSpam>TRUE</CscFeature_Message_DisableSpam>
+    <CscFeature_Music_SupportPlaybackDuringCall>TRUE</CscFeature_Music_SupportPlaybackDuringCall>
+    <CscFeature_Video_SupportPlayDuringCall>TRUE</CscFeature_Video_SupportPlayDuringCall>
+    <CscFeature_Camera_EnableCameraDuringCall>TRUE</CscFeature_Camera_EnableCameraDuringCall>
+  </FeatureSet>
+</SamsungMobileFeature>

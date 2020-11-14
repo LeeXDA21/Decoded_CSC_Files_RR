@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omcInfo>
+  <contentType>0</contentType>
+  <version>SAOMC_SM-G981B_OXM_HUI_RR_0011</version>
+  <model>
+    <name>SM-G981B</name>
+  </model>
+  <catalog>
+    <customer>yes</customer>
+    <customerEdition>ED0002</customerEdition>
+    <cscfeature>yes</cscfeature>
+    <cscfeaturenetwork>yes</cscfeaturenetwork>
+    <carrierfeature>no</carrierfeature>
+    <cp>no</cp>
+    <imsupdate>no</imsupdate>
+  </catalog>
+  <carrierList>
+    <carrierCount>4</carrierCount>
+    <carrier>
+      <mcc>222</mcc>
+      <mnc>88</mnc>
+      <codeType>HEX</codeType>
+      <gid>0000000099</gid>
+      <networkName>VERY</networkName>
+    </carrier>
+    <carrier>
+      <mcc>222</mcc>
+      <mnc>88</mnc>
+      <networkName>WINDTRE</networkName>
+    </carrier>
+    <carrier>
+      <mcc>222</mcc>
+      <mnc>99</mnc>
+      <codeType>HEX</codeType>
+      <gid>0000000099</gid>
+      <networkName>VERY</networkName>
+    </carrier>
+    <carrier>
+      <mcc>222</mcc>
+      <mnc>99</mnc>
+      <networkName>WINDTRE</networkName>
+    </carrier>
+  </carrierList>
+</omcInfo>

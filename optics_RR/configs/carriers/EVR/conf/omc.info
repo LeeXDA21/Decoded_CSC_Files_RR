@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omcInfo>
+  <contentType>0</contentType>
+  <version>SAOMC_SM-G981B_OXM_EVR_RR_0003</version>
+  <model>
+    <name>SM-G981B</name>
+  </model>
+  <catalog>
+    <customer>yes</customer>
+    <customerEdition>ED0002</customerEdition>
+    <cscfeature>yes</cscfeature>
+    <cscfeaturenetwork>yes</cscfeaturenetwork>
+    <carrierfeature>no</carrierfeature>
+    <cp>no</cp>
+    <imsupdate>no</imsupdate>
+  </catalog>
+  <carrierList>
+    <carrierCount>5</carrierCount>
+    <carrier>
+      <mcc>234</mcc>
+      <mnc>30</mnc>
+      <networkName>EE</networkName>
+    </carrier>
+    <carrier>
+      <mcc>234</mcc>
+      <mnc>31</mnc>
+      <networkName>EE</networkName>
+    </carrier>
+    <carrier>
+      <mcc>234</mcc>
+      <mnc>32</mnc>
+      <networkName>EE</networkName>
+    </carrier>
+    <carrier>
+      <mcc>234</mcc>
+      <mnc>33</mnc>
+      <networkName>EE</networkName>
+    </carrier>
+    <carrier>
+      <mcc>234</mcc>
+      <mnc>86</mnc>
+      <networkName>EE</networkName>
+    </carrier>
+  </carrierList>
+</omcInfo>

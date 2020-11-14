@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omcInfo>
+  <contentType>0</contentType>
+  <version>SAOMC_SM-G981B_OXM_XEC_RR_0011</version>
+  <model>
+    <name>SM-G981B</name>
+  </model>
+  <catalog>
+    <customer>yes</customer>
+    <customerEdition>ED0004</customerEdition>
+    <cscfeature>yes</cscfeature>
+    <cscfeaturenetwork>yes</cscfeaturenetwork>
+    <carrierfeature>no</carrierfeature>
+    <cp>no</cp>
+    <imsupdate>no</imsupdate>
+  </catalog>
+  <carrierList>
+    <carrierCount>4</carrierCount>
+    <carrier>
+      <mcc>214</mcc>
+      <mnc>05</mnc>
+      <networkName>tuenti</networkName>
+    </carrier>
+    <carrier>
+      <mcc>214</mcc>
+      <mnc>05</mnc>
+      <spn>pepephone</spn>
+      <networkName>PepephoneNEW</networkName>
+    </carrier>
+    <carrier>
+      <mcc>214</mcc>
+      <mnc>07</mnc>
+      <networkName>Movistar</networkName>
+    </carrier>
+    <carrier>
+      <mcc>214</mcc>
+      <mnc>32</mnc>
+      <networkName>tuenti</networkName>
+    </carrier>
+  </carrierList>
+</omcInfo>

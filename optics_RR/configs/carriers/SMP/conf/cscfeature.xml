@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SamsungMobileFeature>
+  <Version>ED00013</Version>
+  <Country>Switzerland</Country>
+  <CountryISO>CH</CountryISO>
+  <SalesCode>SMP</SalesCode>
+  <FeatureSet>
+    <CscFeature_Audio_SupportSafeMediaVolumeDialog>TRUE</CscFeature_Audio_SupportSafeMediaVolumeDialog>
+    <CscFeature_Common_AutoConfigurationType>NO_DFLT_CSC, SIMBASED_OMC</CscFeature_Common_AutoConfigurationType>
+    <CscFeature_Common_ConfigMarketInfoVariation>Disable</CscFeature_Common_ConfigMarketInfoVariation>
+    <CscFeature_Common_ConfigSvcProviderForUnknownNumber>whitepages,whitepages,whitepages</CscFeature_Common_ConfigSvcProviderForUnknownNumber>
+    <CscFeature_Common_EulaVersion>2</CscFeature_Common_EulaVersion>
+    <CscFeature_Common_SupportMVNOBigData>TRUE</CscFeature_Common_SupportMVNOBigData>
+    <CscFeature_Contact_ConfigDuoVideoCall>ViLTE,</CscFeature_Contact_ConfigDuoVideoCall>
+    <CscFeature_Contact_SupportDuoVideoCall>TRUE</CscFeature_Contact_SupportDuoVideoCall>
+    <CscFeature_GMS_SetClientIDBaseMs>android-samsung-gs-rev1</CscFeature_GMS_SetClientIDBaseMs>
+    <CscFeature_GMS_SupportSTSTool>TRUE</CscFeature_GMS_SupportSTSTool>
+    <CscFeature_RIL_SupportEsim>TRUE</CscFeature_RIL_SupportEsim>
+    <CscFeature_Setting_SupportDefaultScreenMode6500k>TRUE</CscFeature_Setting_SupportDefaultScreenMode6500k>
+    <CscFeature_SetupWizard_DisablePrivacyPolicyAgreement>TRUE</CscFeature_SetupWizard_DisablePrivacyPolicyAgreement>
+    <CscFeature_SyncML_DiscardCpSecurityType4>Userpin,Usernetwpin,None</CscFeature_SyncML_DiscardCpSecurityType4>
+    <CscFeature_SystemUI_ConfigNotificationStyleOnLockscreen>0</CscFeature_SystemUI_ConfigNotificationStyleOnLockscreen>
+    <CscFeature_SystemUI_ConfigOpBranding5GIcon>5GAvailable</CscFeature_SystemUI_ConfigOpBranding5GIcon>
+    <CscFeature_SystemUI_ConfigOpPlmnInfo>NoSimInfo</CscFeature_SystemUI_ConfigOpPlmnInfo>
+    <CscFeature_Vision_ConfigBeauty>NLLXX</CscFeature_Vision_ConfigBeauty>
+    <CscFeature_Vision_ConfigFood>AZMXX</CscFeature_Vision_ConfigFood>
+    <CscFeature_Vision_ConfigFoodRecipe>PTRXX</CscFeature_Vision_ConfigFoodRecipe>
+    <CscFeature_Vision_ConfigFoodVideo>YTBXX</CscFeature_Vision_ConfigFoodVideo>
+    <CscFeature_Vision_ConfigImageSearch>PTRXX</CscFeature_Vision_ConfigImageSearch>
+    <CscFeature_Vision_ConfigPlace>FSRXX</CscFeature_Vision_ConfigPlace>
+    <CscFeature_Vision_ConfigPlaceLandmark>SFSGO</CscFeature_Vision_ConfigPlaceLandmark>
+    <CscFeature_Vision_ConfigPlaceMap>GGLXX</CscFeature_Vision_ConfigPlaceMap>
+    <CscFeature_Vision_ConfigPlaceWeather>TWCXX</CscFeature_Vision_ConfigPlaceWeather>
+    <CscFeature_Vision_ConfigShopping>AMZDE</CscFeature_Vision_ConfigShopping>
+    <CscFeature_Vision_ConfigTextExchangerate>OANXX</CscFeature_Vision_ConfigTextExchangerate>
+    <CscFeature_Vision_ConfigTextTranslator>GGLXX</CscFeature_Vision_ConfigTextTranslator>
+    <CscFeature_Vision_ConfigWine>VVNXX</CscFeature_Vision_ConfigWine>
+    <CscFeature_Weather_ConfigCpType>TWC</CscFeature_Weather_ConfigCpType>
+    <CscFeature_Web_ConfigSyncSource>TRUE</CscFeature_Web_ConfigSyncSource>
+    <CscFeature_Wifi_ConfigSnsStatus>DEFAULT_ON</CscFeature_Wifi_ConfigSnsStatus>
+    
+    <!-- Additions -->
+    <CscFeature_Camera_ShutterSoundMenu>TRUE</CscFeature_Camera_ShutterSoundMenu>
+    <CscFeature_Setting_EnableMenuBlockCallMsg>TRUE</CscFeature_Setting_EnableMenuBlockCallMsg>
+    <CscFeature_SystemUI_SupportRecentAppProtection>TRUE</CscFeature_SystemUI_SupportRecentAppProtection>
+    <CscFeature_VoiceCall_ConfigRecording>RecordingAllowed</CscFeature_VoiceCall_ConfigRecording>
+    <CscFeature_Message_SupportAntiPhishing>TRUE</CscFeature_Message_SupportAntiPhishing>
+    <CscFeature_Message_DisableSpam>TRUE</CscFeature_Message_DisableSpam>
+    <CscFeature_Music_SupportPlaybackDuringCall>TRUE</CscFeature_Music_SupportPlaybackDuringCall>
+    <CscFeature_Video_SupportPlayDuringCall>TRUE</CscFeature_Video_SupportPlayDuringCall>
+    <CscFeature_Camera_EnableCameraDuringCall>TRUE</CscFeature_Camera_EnableCameraDuringCall>
+  </FeatureSet>
+</SamsungMobileFeature>

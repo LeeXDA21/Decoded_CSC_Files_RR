@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SamsungMobileFeature>
+  <Version>ED00005</Version>
+  <Country>POLAND</Country>
+  <CountryISO>PL</CountryISO>
+  <SalesCode>PRT</SalesCode>
+  <FeatureSet>
+    <CscFeature_Audio_SupportSafeMediaVolumeDialog>TRUE</CscFeature_Audio_SupportSafeMediaVolumeDialog>
+    <CscFeature_Common_ConfigEmergencyModePackages>com.ipsec.service,com.sec.android.providers.iwlansettings,com.sec.android.providers.mapcon</CscFeature_Common_ConfigEmergencyModePackages>
+    <CscFeature_Common_ConfigSvcProviderForUnknownNumber>whitepages,whitepages,whitepages</CscFeature_Common_ConfigSvcProviderForUnknownNumber>
+    <CscFeature_Contact_ConfigDuoVideoCall>ViLTE,</CscFeature_Contact_ConfigDuoVideoCall>
+    <CscFeature_Contact_ConfigImsOpStyle>PRT</CscFeature_Contact_ConfigImsOpStyle>
+    <CscFeature_Contact_SupportDuoVideoCall>TRUE</CscFeature_Contact_SupportDuoVideoCall>
+    <CscFeature_GMS_SetClientIDBaseMs>android-samsung-gs-rev1</CscFeature_GMS_SetClientIDBaseMs>
+    <CscFeature_GMS_SupportSTSTool>FALSE</CscFeature_GMS_SupportSTSTool>
+    <CscFeature_Graphics_DisableGameToolsPublicWIFI>TRUE</CscFeature_Graphics_DisableGameToolsPublicWIFI>
+    <CscFeature_Launcher_DefaultPageNumber>0</CscFeature_Launcher_DefaultPageNumber>
+    <CscFeature_LockScreen_ConfigClockDisplayPolicy>IgnoreNationalRoamingWithoutMNC</CscFeature_LockScreen_ConfigClockDisplayPolicy>
+    <CscFeature_LockScreen_EnableOperatorWallpaper>TRUE</CscFeature_LockScreen_EnableOperatorWallpaper>
+    <CscFeature_Message_DisableSmsToMmsConversionByTextInput>FALSE</CscFeature_Message_DisableSmsToMmsConversionByTextInput>
+    <CscFeature_RIL_ConfigSpecialPdpFlag>im_cn</CscFeature_RIL_ConfigSpecialPdpFlag>
+    <CscFeature_RIL_SupportEsim>TRUE</CscFeature_RIL_SupportEsim>
+    <CscFeature_Setting_EnableDataServicePopup>TRUE</CscFeature_Setting_EnableDataServicePopup>
+    <CscFeature_Setting_SetLockScreenComponent>Clock,Shortcuts</CscFeature_Setting_SetLockScreenComponent>
+    <CscFeature_SetupWizard_DisablePrivacyPolicyAgreement>TRUE</CscFeature_SetupWizard_DisablePrivacyPolicyAgreement>
+    <CscFeature_SystemUI_ConfigDefQuickSettingItem>Wifi,SilentMode,Bluetooth,RotationLock,AirplaneMode,Flashlight,BatteryMode,MobileData,WifiCalling,BlueLightFilter,WifiHotspot,DailyBoard,SecureFolder,Location,Nfc,Aod,AllShareCast,DeviceVisibility,DormantMode,Sync,EdgeLighting,Dolby,DesktopMode,SpenRemote,KidsHome</CscFeature_SystemUI_ConfigDefQuickSettingItem>
+    <CscFeature_SystemUI_ConfigOverrideDataIcon>LTE</CscFeature_SystemUI_ConfigOverrideDataIcon>
+    <CscFeature_VT_ConfigBearer>-CSVT</CscFeature_VT_ConfigBearer>
+    <CscFeature_VoiceCall_ConfigOpStyleForHdIcon>PRT_HD</CscFeature_VoiceCall_ConfigOpStyleForHdIcon>
+    <CscFeature_VoiceCall_SupportShowVowifiEndCall>TRUE</CscFeature_VoiceCall_SupportShowVowifiEndCall>
+    <CscFeature_Weather_ConfigCpType>TWC</CscFeature_Weather_ConfigCpType>
+    <CscFeature_Wifi_ConfigSnsStatus>DEFAULT_ON</CscFeature_Wifi_ConfigSnsStatus>
+    
+    <!-- Additions -->
+    <CscFeature_Camera_ShutterSoundMenu>TRUE</CscFeature_Camera_ShutterSoundMenu>
+    <CscFeature_Setting_EnableMenuBlockCallMsg>TRUE</CscFeature_Setting_EnableMenuBlockCallMsg>
+    <CscFeature_SystemUI_SupportRecentAppProtection>TRUE</CscFeature_SystemUI_SupportRecentAppProtection>
+    <CscFeature_VoiceCall_ConfigRecording>RecordingAllowed</CscFeature_VoiceCall_ConfigRecording>
+    <CscFeature_Message_SupportAntiPhishing>TRUE</CscFeature_Message_SupportAntiPhishing>
+    <CscFeature_Message_DisableSpam>TRUE</CscFeature_Message_DisableSpam>
+    <CscFeature_Music_SupportPlaybackDuringCall>TRUE</CscFeature_Music_SupportPlaybackDuringCall>
+    <CscFeature_Video_SupportPlayDuringCall>TRUE</CscFeature_Video_SupportPlayDuringCall>
+    <CscFeature_Camera_EnableCameraDuringCall>TRUE</CscFeature_Camera_EnableCameraDuringCall>
+  </FeatureSet>
+</SamsungMobileFeature>

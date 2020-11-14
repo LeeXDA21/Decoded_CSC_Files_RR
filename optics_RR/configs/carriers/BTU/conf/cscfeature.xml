@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SamsungMobileFeature>
+  <Version>ED00006</Version>
+  <Country>UNITED KINGDOM</Country>
+  <CountryISO>GB</CountryISO>
+  <SalesCode>BTU</SalesCode>
+  <FeatureSet>
+    <CscFeature_Audio_SupportSafeMediaVolumeDialog>TRUE</CscFeature_Audio_SupportSafeMediaVolumeDialog>
+    <CscFeature_Camera_CameraFlicker>50hz</CscFeature_Camera_CameraFlicker>
+    <CscFeature_Common_ConfigSvcProviderForUnknownNumber>whitepages,whitepages,whitepages/234</CscFeature_Common_ConfigSvcProviderForUnknownNumber>
+    <CscFeature_Common_ConfigVvm>CanUseNative</CscFeature_Common_ConfigVvm>
+    <CscFeature_Contact_ConfigDuoVideoCall>ViLTE,</CscFeature_Contact_ConfigDuoVideoCall>
+    <CscFeature_Contact_ConfigImsOpStyle>BTU</CscFeature_Contact_ConfigImsOpStyle>
+    <CscFeature_Contact_SupportDuoVideoCall>TRUE</CscFeature_Contact_SupportDuoVideoCall>
+    <CscFeature_GMS_SetClientIDBaseMs>android-samsung-gs-rev1</CscFeature_GMS_SetClientIDBaseMs>
+    <CscFeature_GMS_SupportSTSTool>FALSE</CscFeature_GMS_SupportSTSTool>
+    <CscFeature_Message_SupportSuggestedCategory>TRUE</CscFeature_Message_SupportSuggestedCategory>
+    <CscFeature_RIL_ConfigSpecialPdpFlag>im_cn</CscFeature_RIL_ConfigSpecialPdpFlag>
+    <CscFeature_RIL_SupportEsim>TRUE</CscFeature_RIL_SupportEsim>
+    <CscFeature_SetupWizard_DisablePrivacyPolicyAgreement>TRUE</CscFeature_SetupWizard_DisablePrivacyPolicyAgreement>
+    <CscFeature_SystemUI_ConfigOpBranding5GIcon>5GAvailable</CscFeature_SystemUI_ConfigOpBranding5GIcon>
+    <CscFeature_VT_ConfigBearer>-CSVT</CscFeature_VT_ConfigBearer>
+    <CscFeature_VoiceCall_LogListViewConfig>vvm</CscFeature_VoiceCall_LogListViewConfig>
+    <CscFeature_Weather_ConfigCpType>TWC</CscFeature_Weather_ConfigCpType>
+    <CscFeature_Web_ConfigSyncSource>TRUE</CscFeature_Web_ConfigSyncSource>
+    <CscFeature_Wifi_ConfigSnsStatus>DEFAULT_ON</CscFeature_Wifi_ConfigSnsStatus>
+    
+    <!-- Additions -->
+    <CscFeature_Camera_ShutterSoundMenu>TRUE</CscFeature_Camera_ShutterSoundMenu>
+    <CscFeature_Setting_EnableMenuBlockCallMsg>TRUE</CscFeature_Setting_EnableMenuBlockCallMsg>
+    <CscFeature_SystemUI_SupportRecentAppProtection>TRUE</CscFeature_SystemUI_SupportRecentAppProtection>
+    <CscFeature_VoiceCall_ConfigRecording>RecordingAllowed</CscFeature_VoiceCall_ConfigRecording>
+    <CscFeature_Message_SupportAntiPhishing>TRUE</CscFeature_Message_SupportAntiPhishing>
+    <CscFeature_Message_DisableSpam>TRUE</CscFeature_Message_DisableSpam>
+    <CscFeature_Music_SupportPlaybackDuringCall>TRUE</CscFeature_Music_SupportPlaybackDuringCall>
+    <CscFeature_Video_SupportPlayDuringCall>TRUE</CscFeature_Video_SupportPlayDuringCall>
+    <CscFeature_Camera_EnableCameraDuringCall>TRUE</CscFeature_Camera_EnableCameraDuringCall>
+  </FeatureSet>
+</SamsungMobileFeature>

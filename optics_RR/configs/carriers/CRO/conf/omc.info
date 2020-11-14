@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omcInfo>
+  <contentType>0</contentType>
+  <version>SAOMC_SM-G981B_OXM_CRO_RR_0002</version>
+  <model>
+    <name>SM-G981B</name>
+  </model>
+  <catalog>
+    <customer>yes</customer>
+    <customerEdition>ED0001</customerEdition>
+    <cscfeature>yes</cscfeature>
+    <cscfeaturenetwork>yes</cscfeaturenetwork>
+    <carrierfeature>no</carrierfeature>
+    <cp>no</cp>
+    <imsupdate>no</imsupdate>
+  </catalog>
+  <carrierList>
+    <carrierCount>6</carrierCount>
+    <carrier>
+      <mcc>219</mcc>
+      <mnc>01</mnc>
+      <codeType>DEC</codeType>
+      <gid>3</gid>
+      <networkName>HT HR</networkName>
+    </carrier>
+    <carrier>
+      <mcc>219</mcc>
+      <mnc>01</mnc>
+      <codeType>DEC</codeType>
+      <gid>2</gid>
+      <networkName>HT HR</networkName>
+    </carrier>
+    <carrier>
+      <mcc>219</mcc>
+      <mnc>01</mnc>
+      <codeType>DEC</codeType>
+      <gid>153</gid>
+      <networkName>HT HR</networkName>
+    </carrier>
+    <carrier>
+      <mcc>219</mcc>
+      <mnc>01</mnc>
+      <codeType>DEC</codeType>
+      <gid>1</gid>
+      <networkName>HT HR</networkName>
+    </carrier>
+    <carrier>
+      <mcc>219</mcc>
+      <mnc>01</mnc>
+      <spn>HT HR</spn>
+      <networkName>HT HR</networkName>
+    </carrier>
+    <carrier>
+      <mcc>219</mcc>
+      <mnc>01</mnc>
+      <spn>T-Mobile HR</spn>
+      <networkName>HT HR</networkName>
+    </carrier>
+  </carrierList>
+</omcInfo>

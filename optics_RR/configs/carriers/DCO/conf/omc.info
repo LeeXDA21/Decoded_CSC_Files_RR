@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omcInfo>
+  <contentType>0</contentType>
+  <version>SAOMC_SM-G981B_OXM_DCO_RR_0004</version>
+  <model>
+    <name>SM-G981B</name>
+  </model>
+  <catalog>
+    <customer>yes</customer>
+    <customerEdition>ED0003</customerEdition>
+    <cscfeature>yes</cscfeature>
+    <cscfeaturenetwork>yes</cscfeaturenetwork>
+    <carrierfeature>no</carrierfeature>
+    <cp>no</cp>
+    <imsupdate>no</imsupdate>
+  </catalog>
+  <carrierList>
+    <carrierCount>3</carrierCount>
+    <carrier>
+      <mcc>262</mcc>
+      <mnc>01</mnc>
+      <codeType>DEC</codeType>
+      <gid>68</gid>
+      <networkName>Congstar</networkName>
+    </carrier>
+    <carrier>
+      <mcc>262</mcc>
+      <mnc>01</mnc>
+      <spn>congstar</spn>
+      <networkName>Congstar</networkName>
+    </carrier>
+    <carrier>
+      <mcc>262</mcc>
+      <mnc>01</mnc>
+      <spn>congstar.de</spn>
+      <networkName>Congstar</networkName>
+    </carrier>
+  </carrierList>
+</omcInfo>
